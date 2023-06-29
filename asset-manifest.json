@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/baigiamasis/static/css/main.a33c922b.css",
+    "main.css": "/baigiamasis/static/css/main.64ddce6c.css",
     "main.js": "/baigiamasis/static/js/main.e314a7d2.js",
     "index.html": "/baigiamasis/index.html",
-    "main.a33c922b.css.map": "/baigiamasis/static/css/main.a33c922b.css.map",
+    "main.64ddce6c.css.map": "/baigiamasis/static/css/main.64ddce6c.css.map",
     "main.e314a7d2.js.map": "/baigiamasis/static/js/main.e314a7d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.a33c922b.css",
+    "static/css/main.64ddce6c.css",
     "static/js/main.e314a7d2.js"
   ]
 }
