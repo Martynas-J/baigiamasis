@@ -1,6 +1,6 @@
 {
   "homepage": "https://martynas-j.github.io/baigiamasis",
-  "name": "users-react-app",
+  "name": "baigiamasis",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +29,8 @@
     "yup": "^1.2.0"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node server.js",
+    "start-react": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
