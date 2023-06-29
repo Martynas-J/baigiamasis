@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/baigiamasis/static/css/main.a33c922b.css",
+    "main.js": "/baigiamasis/static/js/main.e314a7d2.js",
+    "index.html": "/baigiamasis/index.html",
+    "main.a33c922b.css.map": "/baigiamasis/static/css/main.a33c922b.css.map",
+    "main.e314a7d2.js.map": "/baigiamasis/static/js/main.e314a7d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33c922b.css",
+    "static/js/main.e314a7d2.js"
+  ]
+}
