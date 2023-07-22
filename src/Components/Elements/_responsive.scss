@@ -23,8 +23,3 @@
         @content;
     }
 }
-@mixin mob410 {
-    @media screen and (max-width: 410px) {
-        @content;
-    }
-}

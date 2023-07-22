@@ -76,6 +76,7 @@ const DiscovererFormPage = () => {
                 })
                 .then(() => {
                     toast.success('Discoverer was added');
+                    navigate("/discoverers")
                 })
                 .catch((error) => {
                     toast.error(error.message);
